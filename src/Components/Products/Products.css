@@ -1,0 +1,12 @@
+a {
+  text-decoration: none !important;
+}
+.card__section {
+  min-height: 450px;
+  max-height: 450px;
+  /* overflow: auto; */
+}
+.image-section {
+  min-height: 300px;
+  max-height: 300px;
+}
